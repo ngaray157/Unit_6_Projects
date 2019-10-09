@@ -53,6 +53,5 @@ img#mportrait{
 }
 /* Footer Styles */
 footer{
-   border: 2px solid rgb(171, 171, 171);
-   border-radius: top right;
+   border-top: 2px solid rgb(171, 171, 171);
 }
