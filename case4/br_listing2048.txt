@@ -55,7 +55,7 @@ Image 2: Rear View
 Image 3: Side View
 Image 4: Dining Room
 Image 5: Kitchen
-Image 6: Living Room
+Image 6: Living Room    
 Image 7: Bedroom 1
 Image 8: Bedroom 2
 Image 9: Bedroom 3
