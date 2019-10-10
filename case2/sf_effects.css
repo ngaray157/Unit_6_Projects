@@ -28,7 +28,7 @@ body > header nav.tabs{
    background-position: center;
 }
 body > header nav.tabs li{
-   transform: perspective(50px)rotateX(20deg);
+   transform: perspective(50px) rotateX(20deg);
 }
 body > header nav.tabs li:hover{
    background-color: rgb(231, 231, 231);
